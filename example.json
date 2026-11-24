@@ -1,0 +1,7 @@
+{
+  "name": "influxdb-vscode-sensor-readings",
+  "engine": "influxdb",
+  "slug": "influxdb",
+  "kind": "application",
+  "useCase": "sensor-readings"
+}

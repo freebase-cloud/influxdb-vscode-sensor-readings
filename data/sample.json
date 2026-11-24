@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "sensor": "outdoor",
+    "value": 35
+  },
+  {
+    "id": 2,
+    "sensor": "office",
+    "value": 22
+  },
+  {
+    "id": 3,
+    "sensor": "rack",
+    "value": 40
+  }
+]

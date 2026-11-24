@@ -1,0 +1,8 @@
+{
+  "alerts": [
+    "outdoor",
+    "rack"
+  ],
+  "average": 32.33,
+  "spread": 18
+}
